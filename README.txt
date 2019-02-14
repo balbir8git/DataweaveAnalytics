@@ -1,18 +1,3 @@
-Coding Problems -- Some ground rules:
-
-1. We prefer it if you used Python for coding. But if you are more comfortable with something else, feel free to use that.
-
-2. You may use some standard libraries, but your solution will not be acceptable if you use readily available libraries or third party tools to solve the core of the problem.
-
-3. Please make reasonable assumptions when in doubt.
-
-4. DO NOT use any readily available code from the web. We value intellectual honesty.
-
-5. Create a README file describing exactly how to run your scripts. Describe all the major design decisions that you make.
-
-6. And most importantly, have fun!
-
-
 Simple Analytics Program:
 -------------------------
 
